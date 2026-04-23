@@ -1,19 +1,21 @@
 # Healthcare Data Analysis
 
-This project is a basic analysis of a healthcare dataset using Python.
+I worked on this small project to get more comfortable with handling real healthcare data using Python.
 
 ## What I did
-- Explored the dataset using a Jupyter Notebook
-- Performed basic analysis and visualizations
-- Tried to understand patterns in healthcare data
+ - Explored the dataset using a Jupyter notebook and tried to understand what each column meant
+- Did some basic analysis and visualizations
+- Tried to see if there were any simple patterns in the data
 
 ## Files
 - `heartdiseases.ipynb` — main analysis notebook
 
 ## What I learned
-- Working with real data is different from coursework
-- Jupyter notebooks are useful for step-by-step analysis
-- Even simple exploration gives useful insights
+
+- Real data is messier than I expected
+- I had to spend time just understanding the dataset before doing anything useful
+- Even simple graphs helped me understand the data better
+- It’s harder to apply what I learn in class directly to real datasets
 
 ## Next Steps
 - Use cleaner datasets
